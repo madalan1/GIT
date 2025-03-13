@@ -21,4 +21,4 @@ You need to configure username and email address
 git config --global user.email <mail-address>
 git config --global user.name <username>.
 
-Authenticating with token "git remote set-url origin https://<username>:<token>@github.com/madalan1/GIT.git"
+Authenticating with token "git remote set-url origin https://<username>:<token>@github.com/<username>/<repositoryname>.git"
